@@ -14,7 +14,7 @@
     "cheerio": "^1.0.0-rc.3",
     "http-proxy-agent": "^4.0.0",
     "https-proxy-agent": "^4.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "serverless-webpack": "^5.3.1"
   },
   "devDependencies": {
